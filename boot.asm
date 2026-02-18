@@ -7,6 +7,12 @@ start :
 	int 0x10
 	mov al , 'E'
 	int 0x10
+	mov al, 'L'
+	int 0x10
+	mov al, 'L'
+	int 0x10
+	mov al, 'O'
+	int 0x10
 loop:
 	jmp loop
 times 510-($-$$) db 0
