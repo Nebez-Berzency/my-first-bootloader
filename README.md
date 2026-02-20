@@ -17,7 +17,7 @@ sudo apt install nasm qemu-system-x86 make
 First, you need to Clone the project to your local environment
 
 ```
-git clone [https://github.com/Nebez-Berzency/my-first-bootloader.git](https://github.com/Nebez-Berzency/my-first-bootloader.git)
+git clone git@github.com:Nebez-Berzency/simple-bootloader.git
 ```
 
 ```bash
