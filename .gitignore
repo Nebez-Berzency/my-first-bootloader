@@ -1,4 +1,6 @@
 /*
 !/src/
 !/bin/
-!.gitignore
+!.gitignor
+# Ignore the README file
+README.mde
