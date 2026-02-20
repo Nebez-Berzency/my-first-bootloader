@@ -9,7 +9,7 @@ You need to install the **Build Tools** and the **Emulator**. Use the following 
 #### On Ubuntu/Debian:
 ```c
 sudo apt update
-sudo apt install nasm qemu-system-x86 mak
+sudo apt install nasm qemu-system-x86 make
 ```
 
 🛠️ Step-by-Step Setup
